@@ -12,6 +12,8 @@ body {
   margin-bottom: 20px;
 }
 .button {
+  border:none;
+  background-color:#dedede;
   padding: 10px 10px;
   border-radius: 5px;
 }
@@ -62,4 +64,20 @@ h2 {
   border-radius: 5px;
   padding: 10px 10px;
   font-size: 20px;
+
 }
+
+footer{
+  text-align: right;
+  width: 1000px;
+  background-color:#dedede;
+  padding: 30px 30px;
+  margin: 10px auto;
+}
+
+
+
+
+
+
+
