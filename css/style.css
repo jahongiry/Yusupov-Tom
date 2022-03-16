@@ -1,0 +1,29 @@
+.quality {
+  text-align: center;
+}
+
+#email {
+  width: 200px;
+  padding: 10px 10px;
+  margin-bottom: 20px;
+}
+.button {
+  padding: 10px 10px;
+  border-radius: 5px;
+}
+.content {
+  text-align: center;
+  font-size: 25px;
+}
+
+.video-box {
+  text-align: center;
+}
+h2 {
+  text-decoration: underline;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
