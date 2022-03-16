@@ -1,3 +1,7 @@
+body{
+  background-color: #efefef
+}
+
 .quality {
   text-align: center;
 }
@@ -23,7 +27,24 @@ h2 {
   text-decoration: underline;
 }
 
-.header {
+#header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
+
+.nav-link {
+  padding: 3px;
+  margin-right:10px;
+}
+
+#header-img {
+  width: 913px;
+  letter-spacing: 4px;
+
+}
+
+
+
+
+
