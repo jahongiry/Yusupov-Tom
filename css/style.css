@@ -1,5 +1,5 @@
-body{
-  background-color: #efefef
+body {
+  background-color: #efefef;
 }
 
 .quality {
@@ -35,16 +35,31 @@ h2 {
 
 .nav-link {
   padding: 3px;
-  margin-right:10px;
+  margin-right: 10px;
 }
 
 #header-img {
   width: 913px;
   letter-spacing: 4px;
-
 }
 
+.all-boxes {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  justify-content: center;
+  align-content: center;
+  gap: 60px;
+  align-items: center;
+}
 
-
-
-
+.box-one,
+.box-two,
+.box-three {
+  background-color: #dedede;
+  margin-top: 25px;
+  border: solid 2px black;
+  height: 300px;
+  border-radius: 5px;
+  padding: 10px 10px;
+  font-size: 20px;
+}
